@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      export:
+        title: "Export"
+        menu: "Export for %{model_label} '%{object_label}'"
+        breadcrumb: "Export"
+        link: "Export"
+        bulk_link: "Export selected %{model_label_plural}"
+        done: "Exported"
